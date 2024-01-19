@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my own cool projects!**
 
-- 🌱 I’m currently learning **Mobile Development and Cybersecurity**
+- 🌱 I’m currently learning **Machine Leaning**
 
-- 🤝 I’m looking for help with **Ethical Hacking**
+- 🤝 I’m looking for help with **Deep Learning and AI**
 
 - 💬 Ask me about **Backend Development and Web Development**
 
-- 📫 How to reach me **santiromur@gmail.com**
+- 📫 How to reach me **srmurialdo@outlook.com**
 
 - ⚡ Fun fact **I love shonen anime and basketball!**
 
